@@ -116,17 +116,37 @@ MobileNetV2 chosen for its lightweight and fast inference, ideal for real-time p
 
 ---
 
-## 🚀 Installation & Usage
+🖼️ Screenshots
+Add screenshots in the screenshots/ folder and update here.
 
-```bash
-1. Clone the repository
-git clone gh repo clone Rafael-ZP/Lock-In--A_Secure_Attendance_via_Gaze_and_Blink_Detection.git
-cd smart-attendance-system
+🎥 Live Detection Interface
 
-2. Install dependencies
-pip install -r requirements.txt
+![s1](https://github.com/user-attachments/assets/c132a4fb-9eee-4528-a1ed-fec1c3e9ccaf)
 
-3. Start the Flask server
-python app.py
+📊 Attendance Log View
+![s2](https://github.com/user-attachments/assets/c69b2115-6c41-4564-b859-63daf154f2df)
+
+📦 Features
+✅ Real-time gaze and blink detection
+🎯 AI model trained on curated datasets
+🔐 Proxy attendance prevention
+⏱️ Timer-based logic for reliable presence detection
+📁 CSV logging of attendance
+🧪 Easy integration with future face recognition
+💡 Flask-based modular architecture
+
+🛠️ Future Enhancements
+🔒 Integrate face recognition (FaceNet / VGG-Face)
+🌍 Deploy on Raspberry Pi or edge devices
+☁️ Add cloud-based dashboards for analytics
+👨‍🏫 Connect with LMS systems for automated reporting
+📊 Add head pose and emotion detection for better engagement metrics
+
+📜 License & Contact
+This project is licensed under the MIT License.
+
+Created by Rafael Zieganpalg
+📧 rosheniramesh@gmail.com
+
 
 
