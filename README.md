@@ -126,7 +126,7 @@ Add screenshots in the screenshots/ folder and update here.
 📊 Attendance Log View
 ![s2](https://github.com/user-attachments/assets/c69b2115-6c41-4564-b859-63daf154f2df)
 
-📦 Features
+## 📦 Features
 
 ✅ Real-time gaze and blink detection
 
@@ -143,7 +143,7 @@ Add screenshots in the screenshots/ folder and update here.
 💡 Flask-based modular architecture
 
 
-🛠️ Future Enhancements
+## 🛠️ Future Enhancements
 
 🔒 Integrate face recognition (FaceNet / VGG-Face)
 
@@ -156,7 +156,7 @@ Add screenshots in the screenshots/ folder and update here.
 📊 Add head pose and emotion detection for better engagement metrics
 
 
-📜 License & Contact
+## 📜 License & Contact
 
 This project is licensed under the MIT License.
 
