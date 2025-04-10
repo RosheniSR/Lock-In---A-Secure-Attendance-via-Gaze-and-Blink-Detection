@@ -127,8 +127,11 @@ Add screenshots in the screenshots/ folder and update here.
 ![s2](https://github.com/user-attachments/assets/c69b2115-6c41-4564-b859-63daf154f2df)
 
 📦 Features
+
 ✅ Real-time gaze and blink detection
+
 🎯 AI model trained on curated datasets
+
 🔐 Proxy attendance prevention
 ⏱️ Timer-based logic for reliable presence detection
 📁 CSV logging of attendance
@@ -136,6 +139,7 @@ Add screenshots in the screenshots/ folder and update here.
 💡 Flask-based modular architecture
 
 🛠️ Future Enhancements
+
 🔒 Integrate face recognition (FaceNet / VGG-Face)
 🌍 Deploy on Raspberry Pi or edge devices
 ☁️ Add cloud-based dashboards for analytics
