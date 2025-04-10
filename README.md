@@ -145,7 +145,7 @@ Add screenshots in the screenshots/ folder and update here.
 📜 License & Contact
 This project is licensed under the MIT License.
 
-Created by Rafael Zieganpalg
+Created by S.R.Rosheni
 📧 rosheniramesh@gmail.com
 
 
